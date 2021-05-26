@@ -1,0 +1,13 @@
+E:\CSharpProjects\CSharp练习题\ArratListDemo\bin\Debug\netcoreapp3.1\ArratListDemo.exe
+E:\CSharpProjects\CSharp练习题\ArratListDemo\bin\Debug\netcoreapp3.1\ArratListDemo.deps.json
+E:\CSharpProjects\CSharp练习题\ArratListDemo\bin\Debug\netcoreapp3.1\ArratListDemo.runtimeconfig.json
+E:\CSharpProjects\CSharp练习题\ArratListDemo\bin\Debug\netcoreapp3.1\ArratListDemo.runtimeconfig.dev.json
+E:\CSharpProjects\CSharp练习题\ArratListDemo\bin\Debug\netcoreapp3.1\ArratListDemo.dll
+E:\CSharpProjects\CSharp练习题\ArratListDemo\bin\Debug\netcoreapp3.1\ArratListDemo.pdb
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.csprojAssemblyReference.cache
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.AssemblyInfoInputs.cache
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.AssemblyInfo.cs
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.csproj.CoreCompileInputs.cache
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.dll
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.pdb
+E:\CSharpProjects\CSharp练习题\ArratListDemo\obj\Debug\netcoreapp3.1\ArratListDemo.genruntimeconfig.cache
